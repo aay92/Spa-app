@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://aay92.github.io/Spa-app",
+  "homepage": "http://aay92.github.io/spa_app",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
