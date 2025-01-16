@@ -1,9 +1,9 @@
 {
-  "name": "spa_app",
+  "name": "spa-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://aay92.github.io/spa_app",
+  "homepage": "http://aay92.github.io/spa-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
